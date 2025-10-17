@@ -35,29 +35,6 @@ The objective is to develop a deep learning model that can **automatically class
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/chest-xray-pathology-classification.git
-cd chest-xray-pathology-classification
-```
-
-### 2️⃣ Install Dependencies
-```bash
-pip install torch torchvision torchaudio
-pip install transformers datasets scikit-learn opencv-python tqdm pillow
-pip install matplotlib seaborn kaggle
-```
-
-### 3️⃣ Download Dataset from Kaggle
-```bash
-kaggle competitions download -c grand-xray-slam-division-b
-unzip grand-xray-slam-division-b.zip -d data/
-```
-
----
-
 ## 🏋️ Model Training
 
 ### DenseNet-121 Training
