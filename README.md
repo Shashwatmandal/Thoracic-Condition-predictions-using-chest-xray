@@ -58,10 +58,10 @@ The objective is to develop a deep learning model that can **automatically class
 
 ## 📊 Results Summary
 
-| Model | Macro AUC (CV) | Notes |
-|--------|----------------|-------|
-| DenseNet-121 | **0.91 ± 0.02** | Strong CNN baseline |
-| Qwen Vision Pipeline | *to be added* | Multimodal experimentation |
+| Model | Notes |
+|--------|-------|
+| DenseNet-121 | Strong CNN baseline |
+| Qwen Vision Pipeline | Multimodal experimentation |
 
 ---
 
